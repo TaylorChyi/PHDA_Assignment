@@ -1,0 +1,9 @@
+count    27645.000000
+mean         4.392134
+std          9.899591
+min          0.000000
+25%          0.000000
+50%          0.000000
+75%          3.683333
+max        142.683333
+Name: Waiting_Time_Minutes, dtype: float64

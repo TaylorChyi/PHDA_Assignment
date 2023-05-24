@@ -1,0 +1,14 @@
+problem
+fractures and dislocations     17.435116
+circulatory problems           17.329046
+obstetrics and gynaecology     16.953893
+respiratory problems           16.664637
+abdominal pain                 16.186195
+infections                     16.141955
+cuts                           15.625528
+sprains                        15.498326
+other                          14.614956
+muscular or tendon injuries    14.315585
+bruises and grazes             14.152375
+left without being seen         0.000000
+Name: Service_Time_secs, dtype: float64

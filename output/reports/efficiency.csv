@@ -1,0 +1,4 @@
+Handled_By
+Doctor    0.278299
+Nurse     0.256386
+Name: Service_Time_secs, dtype: float64

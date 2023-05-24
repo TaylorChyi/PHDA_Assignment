@@ -1,0 +1,283 @@
+problem,Arrival_Hour,Cases
+abdominal pain,0,41
+abdominal pain,1,34
+abdominal pain,2,28
+abdominal pain,3,22
+abdominal pain,4,22
+abdominal pain,5,12
+abdominal pain,6,19
+abdominal pain,7,13
+abdominal pain,8,50
+abdominal pain,9,96
+abdominal pain,10,101
+abdominal pain,11,116
+abdominal pain,12,113
+abdominal pain,13,114
+abdominal pain,14,100
+abdominal pain,15,91
+abdominal pain,16,89
+abdominal pain,17,89
+abdominal pain,18,108
+abdominal pain,19,92
+abdominal pain,20,90
+abdominal pain,21,66
+abdominal pain,22,83
+abdominal pain,23,65
+bruises and grazes,0,66
+bruises and grazes,1,44
+bruises and grazes,2,47
+bruises and grazes,3,33
+bruises and grazes,4,38
+bruises and grazes,5,27
+bruises and grazes,6,27
+bruises and grazes,7,33
+bruises and grazes,8,68
+bruises and grazes,9,114
+bruises and grazes,10,154
+bruises and grazes,11,178
+bruises and grazes,12,198
+bruises and grazes,13,189
+bruises and grazes,14,151
+bruises and grazes,15,161
+bruises and grazes,16,164
+bruises and grazes,17,142
+bruises and grazes,18,145
+bruises and grazes,19,161
+bruises and grazes,20,140
+bruises and grazes,21,133
+bruises and grazes,22,128
+bruises and grazes,23,98
+circulatory problems,0,52
+circulatory problems,1,34
+circulatory problems,2,39
+circulatory problems,3,22
+circulatory problems,4,27
+circulatory problems,5,18
+circulatory problems,6,17
+circulatory problems,7,26
+circulatory problems,8,57
+circulatory problems,9,103
+circulatory problems,10,135
+circulatory problems,11,113
+circulatory problems,12,159
+circulatory problems,13,116
+circulatory problems,14,108
+circulatory problems,15,108
+circulatory problems,16,115
+circulatory problems,17,101
+circulatory problems,18,101
+circulatory problems,19,114
+circulatory problems,20,104
+circulatory problems,21,99
+circulatory problems,22,61
+circulatory problems,23,76
+cuts,0,70
+cuts,1,61
+cuts,2,49
+cuts,3,31
+cuts,4,27
+cuts,5,26
+cuts,6,42
+cuts,7,37
+cuts,8,65
+cuts,9,119
+cuts,10,168
+cuts,11,187
+cuts,12,174
+cuts,13,181
+cuts,14,126
+cuts,15,170
+cuts,16,156
+cuts,17,147
+cuts,18,163
+cuts,19,150
+cuts,20,147
+cuts,21,145
+cuts,22,104
+cuts,23,92
+fractures and dislocations,0,90
+fractures and dislocations,1,52
+fractures and dislocations,2,53
+fractures and dislocations,3,36
+fractures and dislocations,4,42
+fractures and dislocations,5,28
+fractures and dislocations,6,33
+fractures and dislocations,7,42
+fractures and dislocations,8,63
+fractures and dislocations,9,110
+fractures and dislocations,10,151
+fractures and dislocations,11,176
+fractures and dislocations,12,163
+fractures and dislocations,13,185
+fractures and dislocations,14,155
+fractures and dislocations,15,169
+fractures and dislocations,16,120
+fractures and dislocations,17,148
+fractures and dislocations,18,150
+fractures and dislocations,19,152
+fractures and dislocations,20,118
+fractures and dislocations,21,132
+fractures and dislocations,22,122
+fractures and dislocations,23,109
+infections,0,32
+infections,1,38
+infections,2,16
+infections,3,27
+infections,4,16
+infections,5,19
+infections,6,12
+infections,7,14
+infections,8,35
+infections,9,57
+infections,10,99
+infections,11,68
+infections,12,73
+infections,13,68
+infections,14,97
+infections,15,84
+infections,16,70
+infections,17,79
+infections,18,70
+infections,19,80
+infections,20,75
+infections,21,67
+infections,22,60
+infections,23,45
+left without being seen,0,5
+left without being seen,1,2
+left without being seen,8,4
+left without being seen,9,27
+left without being seen,10,59
+left without being seen,11,104
+left without being seen,12,142
+left without being seen,13,130
+left without being seen,14,105
+left without being seen,15,105
+left without being seen,16,84
+left without being seen,17,75
+left without being seen,18,88
+left without being seen,19,88
+left without being seen,20,68
+left without being seen,21,44
+left without being seen,22,30
+left without being seen,23,16
+muscular or tendon injuries,0,71
+muscular or tendon injuries,1,56
+muscular or tendon injuries,2,49
+muscular or tendon injuries,3,63
+muscular or tendon injuries,4,48
+muscular or tendon injuries,5,34
+muscular or tendon injuries,6,36
+muscular or tendon injuries,7,50
+muscular or tendon injuries,8,52
+muscular or tendon injuries,9,132
+muscular or tendon injuries,10,197
+muscular or tendon injuries,11,173
+muscular or tendon injuries,12,192
+muscular or tendon injuries,13,208
+muscular or tendon injuries,14,196
+muscular or tendon injuries,15,161
+muscular or tendon injuries,16,148
+muscular or tendon injuries,17,168
+muscular or tendon injuries,18,194
+muscular or tendon injuries,19,163
+muscular or tendon injuries,20,178
+muscular or tendon injuries,21,149
+muscular or tendon injuries,22,130
+muscular or tendon injuries,23,110
+obstetrics and gynaecology,0,47
+obstetrics and gynaecology,1,33
+obstetrics and gynaecology,2,20
+obstetrics and gynaecology,3,31
+obstetrics and gynaecology,4,21
+obstetrics and gynaecology,5,12
+obstetrics and gynaecology,6,16
+obstetrics and gynaecology,7,17
+obstetrics and gynaecology,8,45
+obstetrics and gynaecology,9,80
+obstetrics and gynaecology,10,99
+obstetrics and gynaecology,11,107
+obstetrics and gynaecology,12,96
+obstetrics and gynaecology,13,107
+obstetrics and gynaecology,14,97
+obstetrics and gynaecology,15,75
+obstetrics and gynaecology,16,85
+obstetrics and gynaecology,17,95
+obstetrics and gynaecology,18,69
+obstetrics and gynaecology,19,103
+obstetrics and gynaecology,20,82
+obstetrics and gynaecology,21,71
+obstetrics and gynaecology,22,75
+obstetrics and gynaecology,23,54
+other,0,131
+other,1,106
+other,2,95
+other,3,76
+other,4,65
+other,5,49
+other,6,51
+other,7,63
+other,8,113
+other,9,218
+other,10,268
+other,11,321
+other,12,323
+other,13,291
+other,14,275
+other,15,256
+other,16,276
+other,17,299
+other,18,266
+other,19,278
+other,20,256
+other,21,228
+other,22,221
+other,23,171
+respiratory problems,0,31
+respiratory problems,1,20
+respiratory problems,2,12
+respiratory problems,3,7
+respiratory problems,4,3
+respiratory problems,5,9
+respiratory problems,6,7
+respiratory problems,7,9
+respiratory problems,8,20
+respiratory problems,9,37
+respiratory problems,10,50
+respiratory problems,11,63
+respiratory problems,12,59
+respiratory problems,13,45
+respiratory problems,14,56
+respiratory problems,15,36
+respiratory problems,16,47
+respiratory problems,17,42
+respiratory problems,18,42
+respiratory problems,19,50
+respiratory problems,20,33
+respiratory problems,21,38
+respiratory problems,22,33
+respiratory problems,23,31
+sprains,0,109
+sprains,1,77
+sprains,2,61
+sprains,3,49
+sprains,4,41
+sprains,5,51
+sprains,6,41
+sprains,7,51
+sprains,8,88
+sprains,9,182
+sprains,10,231
+sprains,11,275
+sprains,12,250
+sprains,13,228
+sprains,14,223
+sprains,15,210
+sprains,16,215
+sprains,17,237
+sprains,18,230
+sprains,19,216
+sprains,20,203
+sprains,21,176
+sprains,22,185
+sprains,23,134

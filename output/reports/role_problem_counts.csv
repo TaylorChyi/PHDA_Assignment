@@ -1,0 +1,16 @@
+Doctor - abdominal pain                 1654
+Doctor - circulatory problems           1905
+Doctor - infections                     1301
+Doctor - left without being seen        1176
+Doctor - obstetrics and gynaecology     1537
+Doctor - other                          4696
+Doctor - respiratory problems            780
+Nurse - bruises and grazes              2639
+Nurse - cuts                            2637
+Nurse - fractures and dislocations      2599
+Nurse - muscular or tendon injuries     2958
+Nurse - sprains                         3763
+Other                                   4696
+Left                                    1176
+Total                                  27645
+dtype: int64

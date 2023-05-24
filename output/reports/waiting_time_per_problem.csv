@@ -1,0 +1,14 @@
+problem
+abdominal pain                 0.085584
+respiratory problems           0.081536
+other                          0.080898
+circulatory problems           0.079180
+sprains                        0.077048
+cuts                           0.076405
+obstetrics and gynaecology     0.073910
+muscular or tendon injuries    0.073433
+bruises and grazes             0.072191
+fractures and dislocations     0.072054
+infections                     0.067470
+left without being seen        0.000000
+Name: Waiting_Time_Minutes, dtype: float64

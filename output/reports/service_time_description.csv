@@ -1,0 +1,9 @@
+count    27645.000000
+mean        14.939594
+std         13.481156
+min          0.000000
+25%          4.083333
+50%         10.816667
+75%         22.083333
+max         62.083333
+Name: Service_Time_Minutes, dtype: float64

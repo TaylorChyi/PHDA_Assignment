@@ -1,0 +1,14 @@
+abdominal pain                      NaN
+bruises and grazes                  NaN
+circulatory problems           1.000000
+cuts                                NaN
+fractures and dislocations          NaN
+infections                          NaN
+left without being seen             NaN
+muscular or tendon injuries         NaN
+obstetrics and gynaecology     1.000000
+other                               NaN
+respiratory problems                NaN
+sprains                             NaN
+Total                          0.124507
+dtype: float64

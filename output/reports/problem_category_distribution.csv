@@ -1,0 +1,13 @@
+other                          4696
+sprains                        3763
+muscular or tendon injuries    2958
+bruises and grazes             2639
+cuts                           2637
+fractures and dislocations     2599
+circulatory problems           1905
+abdominal pain                 1654
+obstetrics and gynaecology     1537
+infections                     1301
+left without being seen        1176
+respiratory problems            780
+Name: problem, dtype: int64
